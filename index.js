@@ -9,4 +9,4 @@ connect();
 
 const PORT = 8000;
 console.log(PORT);
-app.listen(PORT, () => console.log("server is listning" + PORT));
+app.listen(PORT, () => console.log("server is listening" + PORT));
